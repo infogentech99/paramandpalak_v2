@@ -13,17 +13,17 @@ export default function Events() {
         className="text-[#BC610A] font-cormorant-garamond text-center
             md:text-5xl text-[30px] lg:text-[80px] leading-tight mt-2 font-semibold"
       >
-        Wedding Events
+        Wedding Reception
       </h2>
 
       <h2 className="text-white bg-[#BC610A] font-cormorant-garamond text-[20px] md:text-xl lg:text-[30px] mt-5 border px-6 py-2 rounded-xl">
         Sunday, 29th November 2026
       </h2>
 
-      <div className="relative flex flex-col text-center overflow-hidden rounded-2xl min-h-[350px] md:min-h-[600px] px-16 md:px-17 py-5 md:mt-20 mt-8">
+      {/* <div className="relative flex flex-col text-center overflow-hidden rounded-2xl min-h-[350px] md:min-h-[600px] px-16 md:px-17 py-5 md:mt-20 mt-8">
         <div className="absolute inset-0 bg-[url('/assets/haldi_v.png')] bg-cover bg-center bg-no-repeat"></div>
 
-        {/* Content */}
+       
         <div className="relative z-10 flex flex-col md:mt-30 mt-10">
           <h2 className="text-[#BC610A] font-cormorant-garamond text-[30px] md:text-3xl lg:text-[40px] leading-tight font-semibold">
             Haldi
@@ -33,7 +33,7 @@ export default function Events() {
             11:00 am onwards
           </p>
         </div>
-      </div>
+      </div> */}
 
       <div className="relative flex flex-col text-center overflow-hidden rounded-2xl min-h-[350px] md:min-h-[600px] px-11 md:px-17 py-5 md:mt-20 mt-8">
         <div className="absolute inset-0 bg-[url('/assets/tilak.webp')] bg-cover bg-center bg-no-repeat"></div>
